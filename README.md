@@ -47,7 +47,6 @@ The current score, level, and total lines cleared are displayed on-screen in rea
 | `↓` (hold) | Soft drop | Temporarily increases fall speed for faster placement; releases back to normal gravity speed |
 
 ## Project Structure
-├── main.h    # Initiates the Game
 ├── game.h    # Core game loop, grid management, scoring, and level logic
 ├── shape.h   # Base class shared by all tetrominoes
 ├── I.h       # I-piece implementation
